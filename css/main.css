@@ -1,6 +1,6 @@
 html {
   background-color: #c9b5ab;
-  font-family: Georgia, serif;
+  font-family: "PT Sans", regular;
   line-height: 1.5;
   font-size: 1.125rem;
   font-weight: normal;
@@ -8,6 +8,7 @@ html {
 
 h1, h2 {
   color: #3f1622;
+  font-family: "PT Sans", regular;
   font-size: 1.5rem;
 }
 
