@@ -1,0 +1,15 @@
+html {
+  background-color: #c9b5ab;
+  font-family: Georgia, serif;
+  line-height: 1.5;
+  font-weight: normal;
+}
+
+ol, li {
+  color: #8f2440;
+  text-decoration: none;
+}
+
+h1, h2 {
+  color: #3f1622;
+}
